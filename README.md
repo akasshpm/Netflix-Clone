@@ -33,7 +33,7 @@ This project is a web-based clone of Netflix, designed to provide a similar user
 
 ## Tools Used
 
--**VS Code**
+- **VS Code**
 
 ## Installation
 
