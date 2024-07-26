@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:black;
+}
+.nav1{
+    object-fit: contain;
+    width: 80px;
+}
+.nav{
+    position: fixed;
+    top: 0;
+    z-index: 1;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.banner{
+    background: url(../Images/banner2.jpg);
+    height: 500px;
+    background-size: cover;
+    object-fit: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    color:white;
+    margin: 15px;
+}
+.banner_head{
+    padding-left: 30px;
+    padding-top: 140px;
+}
+.ban_head{
+    margin-bottom: 20px;
+    font-size: 4rem;
+}
+.buttons button{
+    border-radius: 20px;
+    padding: 7px;
+    margin-bottom: 10px;
+    background: transparent;
+    border:2px solid white;
+    color: white;
+    margin-right: 50px;
+    margin-left: 10px;
+}
+.buttons button:hover{
+    color: black;
+    background-color: white;
+}
+.des{
+    max-width: 480px;
+    margin-top: 30px;
+    height: 180px;
+    font-size: 18px;
+}
+.im{
+    width: 100%;
+     object-fit: contain;
+     max-height: 200px;
+     transition: transform 450ms;
+     margin-right: 10px;
+}
+.movies{
+    display: flex;
+    overflow-y: hidden;
+    overflow-x: scroll;
+    padding: 20px;
+    color: white;
+}
+.trailers h1{
+    color: white;
+    margin-left: 20px;
+    font-size: 20px;
+}
+.trail{
+    display: flex;
+    overflow-y: hidden;
+    overflow-x: scroll;
+}
+.vid{
+    object-fit: contain;
+}
+video{
+    max-height: 200px;
+    width: 100%;
+    padding:10px;
+    margin: 10px;
+}
+.trail::-webkit-scrollbar{
+    display: none;
+}
+.container h1{
+    color: white;
+    font-size: 20px;
+    margin-left: 20px;
+}
+.im:hover{
+    transform: scale(1.08);
+}
+.movies::-webkit-scrollbar{
+    display: none;
+}
+.not{
+    max-height: 300px;
+}
+.not :hover{
+    transform: scale(1.09);
+}
+
