@@ -9,6 +9,7 @@ Welcome to the Netflix Clone project! This is a simple web application that mimi
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+- [Tools Used](#tools-used)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -30,6 +31,9 @@ This project is a web-based clone of Netflix, designed to provide a similar user
 - **HTML**: Structure and content
 - **CSS**: Styling and layout
 
+##Tools Used
+
+-**VS Code**
 
 ## Installation
 
