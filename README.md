@@ -31,7 +31,7 @@ This project is a web-based clone of Netflix, designed to provide a similar user
 - **HTML**: Structure and content
 - **CSS**: Styling and layout
 
-##Tools Used
+## Tools Used
 
 -**VS Code**
 
