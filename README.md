@@ -82,7 +82,6 @@ To set up this project locally, follow these steps:
 ![Screenshot 2024-07-27 023605](https://github.com/user-attachments/assets/8e2c9799-5646-4270-9fe7-788fdcbb8d82)
 
 
-
 ## Contributing
 
 If you'd like to contribute to this project, please fork the repository and submit a pull request with your proposed changes. Ensure that your contributions adhere to the following guidelines:
