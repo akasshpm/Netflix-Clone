@@ -12,6 +12,7 @@ Welcome to the Netflix Clone project! This is a simple web application that mimi
 - [Tools Used](#tools-used)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Project Demo](#project-demo)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -69,6 +70,16 @@ To set up this project locally, follow these steps:
 
 - Open `index.html` in your browser to view the Netflix clone.
 - Use the navigation bar to explore different sections of the site.
+
+## Project Demo
+![Screenshot 2024-07-27 023617](https://github.com/user-attachments/assets/caaa39a5-11f5-4b48-a73e-406460ab9a7b)
+
+![Screenshot 2024-07-27 023531](https://github.com/user-attachments/assets/f233d6ba-0012-40ca-98e3-7cb9b9a212c3)
+
+![Screenshot 2024-07-27 023553](https://github.com/user-attachments/assets/96b1e8c0-30a7-4b6a-9e0c-f493226eb3c8)
+
+![Screenshot 2024-07-27 023605](https://github.com/user-attachments/assets/8e2c9799-5646-4270-9fe7-788fdcbb8d82)
+
 
 
 ## Contributing
