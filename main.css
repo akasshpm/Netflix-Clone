@@ -108,4 +108,16 @@ video{
 .not :hover{
     transform: scale(1.09);
 }
-
+/* Responsive */
+@media (max-width: 768px){
+    .banner_head{
+       padding-left: 10px;
+       padding-top: 10px;
+    }
+    .im{
+       max-width: 50%;
+    }
+    video{
+        max-width: 70%;
+    }
+}
