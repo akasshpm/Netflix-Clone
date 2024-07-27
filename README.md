@@ -14,6 +14,7 @@ Welcome to the Netflix Clone project! This is a simple web application that mimi
 - [Usage](#usage)
 - [Project Demo](#project-demo)
 - [Contributing](#contributing)
+- [Contact](#contact)
 - [License](#license)
 
 ## Project Overview
@@ -43,7 +44,7 @@ To set up this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/netflix-clone.git
+   git clone https://github.com/akasshpm/netflix-clone.git
    ```
 
 2. Navigate to the project directory:
@@ -89,6 +90,15 @@ If you'd like to contribute to this project, please fork the repository and subm
 - Follow the existing code style.
 - Write clear commit messages.
 - Test your changes before submitting.
+
+## Contact
+
+For any questions, feedback, or contributions, please contact me at:
+
+- **Email:** akasshpm@gmail.com
+- **GitHub Profile:** [akasshpm](https://github.com/akasshpm)
+
+Feel free to reach out if you have any questions or need further assistance.
 
 ## License
 
