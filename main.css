@@ -114,6 +114,12 @@ video{
        padding-left: 10px;
        padding-top: 10px;
     }
+     h1{
+        max-width: 50%;
+    }
+    p{
+        max-width: 90%;
+    }
     .im{
        max-width: 50%;
     }
